@@ -21,3 +21,5 @@ original panel:
 https://github.com/znixbtw/panel-v2
 
 ```
+
+have fun skidding
